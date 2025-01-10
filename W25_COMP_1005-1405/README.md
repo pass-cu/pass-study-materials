@@ -5,4 +5,12 @@ plans and learning activities please go to the PASS Brightspace, info in the mai
 
 ## Session Information
 Fridays 2:35pm - 4:25pm (ML 402)
+
 *Fourth floor of the library in the Center for Student Academic Support.
+
+## Contact Information
+Please email me if you want to chat or have questions!
+
+nicholaswaworuntu@cmail.carleton.ca
+
+I will respond as soon as I can.
