@@ -1,0 +1,9 @@
+favorite_sport = ""
+
+while favorite_sport.lower() != "stop":
+    favorite_sport = input("What's your favorite sport? (Type 'stop' to exit): ")
+    print(f"{favorite_sport} is a great choice!")
+    if favorite_sport.lower() != "stop":
+        continue
+
+print("Thanks for sharing your favorite sports!")
