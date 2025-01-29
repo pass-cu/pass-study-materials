@@ -1,0 +1,6 @@
+while True,
+    user_input = input("Tell me how to tie my laces, 1 word at a time. Type 'stop' to end the loop: ")
+    if user_input = "stop":
+        print("You chose to stop. Goodbye!")
+        
+    print("Thank you for the instructions! My next step is", user_input)
