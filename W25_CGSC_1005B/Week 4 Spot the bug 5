@@ -1,0 +1,12 @@
+while True:
+    user_input = input("Enter your favorite learning style (or type 'stop' to quit): ")
+
+    if user_input.lower() == "visual":
+        print("Visual is a popular choice!")
+    elif user_input.lower() == "auditory":
+        print("Auditory is a common learning strategy.")
+    elif user_input.lower() == "stop":
+        print("Goodbye! Thanks for sharing.")
+        break
+    else:
+        print(f"{user_input} is not a valid learning method. Please try again.")

@@ -1,0 +1,11 @@
+counter = 0
+age = 0
+
+While True:
+	grays = int(input("Enter the number of gray hairs"))
+	counter = counter + 1
+	if counter == 6:
+		break
+	age = age + grays
+		
+print (age)
